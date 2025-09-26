@@ -1,0 +1,10 @@
+# OS / editor files
+.DS_Store
+*.swp
+*~
+# Python / Node artifacts
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.env
